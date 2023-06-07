@@ -53,8 +53,7 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 ## Authors
 
 MARIE COLEEN G. TOSOC
-mariecoleen.tosoc@unc.edu.ph 
 
 ## License
 
-This project is licensed under MARIE COLEEN G. TOSOCLicense - see the LICENSE.md file for details
+This project is licensed under MARIE COLEEN G. TOSOC License - see the LICENSE.md file for details
