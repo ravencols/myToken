@@ -52,7 +52,7 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 
 ## Authors
 
-MARIE COLEEN G. TOSOC
+MARIE COLEEN G. TOSOC 
 
 ## License
 
